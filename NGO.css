@@ -1,0 +1,31 @@
+body{
+    background: black;
+    color: white;
+}
+#main{
+    height: 700px;
+    text-align: center;
+} 
+#About {
+    background: white;
+    color: black;
+    text-align: center;
+    font-size: large;
+}
+a:link{
+    color: aqua;
+}
+img {
+    padding-top: 70px;
+    height: 400px;
+    width:90%;
+}
+a:hover {
+    color: aquamarine;
+}
+a:click {
+    color: coral;
+}
+footer {
+    text-align: center;
+}
